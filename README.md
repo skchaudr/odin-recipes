@@ -1,7 +1,6 @@
 # odin-recipes
-a simple recipes website in just HTML 
 
-A simple recipes website in just HTML, features 3 recipes 
+## A simple recipes website in just HTML, features 3 recipes 
 
 The index.html page makes use of html boilerplate, and the recipes are linked to their respective pages using anchor tags. 
 
